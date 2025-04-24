@@ -12,4 +12,4 @@
 ### PurpurPacks
 [PurpurPacks](https://github.com/PurpurMC/PurpurPacks) are all datapacks that function better as a pack versus a Purpur feature
 ### PurpurClient
-PurpurClient is a Fabric client mod that attempts to fix many client-side bugs before Mojang can get to them
+[PurpurClient](https://github.com/PurpurMC/PurpurClient) is a Fabric client mod that attempts to fix many client-side bugs before Mojang can get to them
